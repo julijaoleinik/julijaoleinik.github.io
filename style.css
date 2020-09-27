@@ -1,0 +1,11 @@
+body{
+ height: 2000px;
+  background:  url(https://funart.pro/uploads/posts/2020-04/1587493108_43-p-bledno-rozovie-foni-105.jpg);
+  background-size: cover;
+}
+main {background-color:#FF69B4;
+}
+h1 { color: #8B0000;
+}
+p {color:#8B0000;
+}
